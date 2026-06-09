@@ -1,0 +1,1 @@
+This folder references our data storage. Due to GitHub file size limits, our primary dataset is sourced directly from the official NYC Open Data portal for Motor Vehicle Collisions
