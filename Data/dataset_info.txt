@@ -1,1 +1,4 @@
 This folder references our data storage. Due to GitHub file size limits, our primary dataset is sourced directly from the official NYC Open Data portal for Motor Vehicle Collisions
+Note for grading: 
+Our filtered 2020 NYC collision dataset contains over 66,000 rows, making it too large for GitHub to preview directly in your browser. 
+To view or grade our raw data layout, please click the "Download" or "View raw" button on the data files to open them directly in Excel or Power BI.
